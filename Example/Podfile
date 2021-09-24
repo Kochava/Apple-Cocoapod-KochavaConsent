@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'Apple-Cocoapod-KochavaConsent_Example' do
+  pod 'Apple-Cocoapod-KochavaConsent', :path => '../'
+
+  target 'Apple-Cocoapod-KochavaConsent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
