@@ -1,5 +1,6 @@
 import XCTest
-import Apple-Cocoapod-KochavaConsent
+// import Apple-Cocoapod-KochavaConsent
+import KochavaConsent
 
 class Tests: XCTestCase {
     

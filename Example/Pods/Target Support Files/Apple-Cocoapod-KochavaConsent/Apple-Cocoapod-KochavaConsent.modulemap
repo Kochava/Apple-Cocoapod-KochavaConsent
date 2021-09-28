@@ -1,0 +1,6 @@
+framework module Apple_Cocoapod_KochavaConsent {
+  umbrella header "Apple-Cocoapod-KochavaConsent-umbrella.h"
+
+  export *
+  module * { export * }
+}
