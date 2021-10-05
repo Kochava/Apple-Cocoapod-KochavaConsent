@@ -13,10 +13,6 @@ The KochavaUI module of the Kochava Apple SDK provides user interface support.
 
 The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Built on
 
 * Xcode 12.4
@@ -38,6 +34,10 @@ To install it, simply add the following line to your Podfile:
 ```ruby
 pod 'Apple-Cocoapod-KochavaUI'
 ```
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Author
 

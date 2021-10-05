@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/KVAProduct.h</key>
 		<data>
-		k5SzPIbyUUvEY8VCdVvwKb9t43w=
+		WI1VOoe4FVo86qAc/tL+zCtnz6A=
 		</data>
 		<key>Headers/KVASharedPropertyProvider.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DtgYPwxJcG672cKh/bXyjDOSmdc=
+		vkBVUSTmIQRiD3c6mnuREEpeevk=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		Fs0KdtLrEnd1/iMy3eKPcJp1aAQ=
+		KogrDd0BmvebHQDeukKzrPB7u+w=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Fs0KdtLrEnd1/iMy3eKPcJp1aAQ=
+		KogrDd0BmvebHQDeukKzrPB7u+w=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		YUbo3eZNUG8qKmY+y83h4j3NxJI=
+		QoIlB0QtAB4dGY5VOUoNnPC/28E=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		YUbo3eZNUG8qKmY+y83h4j3NxJI=
+		QoIlB0QtAB4dGY5VOUoNnPC/28E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -279,11 +279,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k5SzPIbyUUvEY8VCdVvwKb9t43w=
+			WI1VOoe4FVo86qAc/tL+zCtnz6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			fMxSrdKcXEGbtgddxf1poI2RZl3U5RFHRBrJ7tkRmFk=
+			LuJHzyDFF7bQCVPgHTOGhJRXRjpm8rB3Mx4BsoEfNbM=
 			</data>
 		</dict>
 		<key>Headers/KVASharedPropertyProvider.h</key>
@@ -389,11 +389,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Fs0KdtLrEnd1/iMy3eKPcJp1aAQ=
+			KogrDd0BmvebHQDeukKzrPB7u+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			qqOHw1shriRUy/M7foQfUj2UgXUinNC7jup+xxsVbzg=
+			qWMAfAB5tkhtYo6k59k9lrw6DxyBZKCzsYDymy5Wy5U=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/arm64.swiftdoc</key>
@@ -422,11 +422,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Fs0KdtLrEnd1/iMy3eKPcJp1aAQ=
+			KogrDd0BmvebHQDeukKzrPB7u+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			qqOHw1shriRUy/M7foQfUj2UgXUinNC7jup+xxsVbzg=
+			qWMAfAB5tkhtYo6k59k9lrw6DxyBZKCzsYDymy5Wy5U=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
@@ -455,11 +455,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YUbo3eZNUG8qKmY+y83h4j3NxJI=
+			QoIlB0QtAB4dGY5VOUoNnPC/28E=
 			</data>
 			<key>hash2</key>
 			<data>
-			DJV+uZF7S3RFlciNNfB1gVPaO+9ysFnnm/LHKjH3Ado=
+			g05iTckYuTwPelC7VRbuNv/wSF6ku2/hMeT52Fq1l30=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/x86_64.swiftdoc</key>
@@ -488,11 +488,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YUbo3eZNUG8qKmY+y83h4j3NxJI=
+			QoIlB0QtAB4dGY5VOUoNnPC/28E=
 			</data>
 			<key>hash2</key>
 			<data>
-			DJV+uZF7S3RFlciNNfB1gVPaO+9ysFnnm/LHKjH3Ado=
+			g05iTckYuTwPelC7VRbuNv/wSF6ku2/hMeT52Fq1l30=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		KEkvW8g/CuhPx00Fs7ulcFiCsKI=
+		EtdsvAw3Ref+cWgfNXZQtA6wxAw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fMxSrdKcXEGbtgddxf1poI2RZl3U5RFHRBrJ7tkRmFk=
+			LuJHzyDFF7bQCVPgHTOGhJRXRjpm8rB3Mx4BsoEfNbM=
 			</data>
 		</dict>
 		<key>Headers/KVASharedPropertyProvider.h</key>
@@ -169,7 +169,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5kCVONmQQS23kUTPxfnPsgCRymx7sfJBfx1v0FkTuog=
+			9tFvU0TKDyzB9k7WyQplx/qifyVrFSPYbHnPrJ75VGc=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/arm64.swiftdoc</key>
@@ -190,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5kCVONmQQS23kUTPxfnPsgCRymx7sfJBfx1v0FkTuog=
+			9tFvU0TKDyzB9k7WyQplx/qifyVrFSPYbHnPrJ75VGc=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -211,7 +211,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4bxw1zt0D9lWvQJzCNsO62tONvfSo2yWq+ZfebpjJxU=
+			gMyMne3UjOHSOAeODybJEr984jdZ3syHsV8YIELN3yk=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/x86_64.swiftdoc</key>
@@ -232,7 +232,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4bxw1zt0D9lWvQJzCNsO62tONvfSo2yWq+ZfebpjJxU=
+			gMyMne3UjOHSOAeODybJEr984jdZ3syHsV8YIELN3yk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -246,7 +246,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HOUc5TI+4OGGa3y/q9SVg9Xm7nYzDf7j9pojcxaE2vI=
+			CFAsozmDmu4EYGUGUttEFUGHlrCPemxElRilqxgptGA=
 			</data>
 		</dict>
 	</dict>

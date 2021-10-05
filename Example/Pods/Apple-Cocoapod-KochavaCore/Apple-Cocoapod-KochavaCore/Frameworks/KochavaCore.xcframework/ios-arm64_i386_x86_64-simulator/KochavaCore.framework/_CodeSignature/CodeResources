@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/KVAProduct.h</key>
 		<data>
-		k5SzPIbyUUvEY8VCdVvwKb9t43w=
+		WI1VOoe4FVo86qAc/tL+zCtnz6A=
 		</data>
 		<key>Headers/KVASharedPropertyProvider.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oQu/+nkDcDbyvQxbsRyYL1kUAN4=
+		TcHr8GzWZedXP61gfFW0UT3ovtI=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		r5Q06e2TnAH8pZWVCduJyDW5vT8=
+		0bO/Hwoxf4+9x0vXK68THiVKyvQ=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		r5Q06e2TnAH8pZWVCduJyDW5vT8=
+		0bO/Hwoxf4+9x0vXK68THiVKyvQ=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/78+DI9TBU7bHVIizEEss2jFh3s=
+		oN6RtGB/vR20cbNIHqDPxkc9hbk=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/i386.swiftmodule</key>
 		<data>
-		/78+DI9TBU7bHVIizEEss2jFh3s=
+		oN6RtGB/vR20cbNIHqDPxkc9hbk=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sYN6zGLbkFLkK7NEcQm9Sphpi+k=
+		EJFFXwcCGgEiXsR/G2/klCRRN7A=
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>Modules/KochavaCore.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		sYN6zGLbkFLkK7NEcQm9Sphpi+k=
+		EJFFXwcCGgEiXsR/G2/klCRRN7A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -303,11 +303,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k5SzPIbyUUvEY8VCdVvwKb9t43w=
+			WI1VOoe4FVo86qAc/tL+zCtnz6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			fMxSrdKcXEGbtgddxf1poI2RZl3U5RFHRBrJ7tkRmFk=
+			LuJHzyDFF7bQCVPgHTOGhJRXRjpm8rB3Mx4BsoEfNbM=
 			</data>
 		</dict>
 		<key>Headers/KVASharedPropertyProvider.h</key>
@@ -413,11 +413,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r5Q06e2TnAH8pZWVCduJyDW5vT8=
+			0bO/Hwoxf4+9x0vXK68THiVKyvQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VUSjbDDxcszKMRzHqFL2UA1/oE3Iwsw5OlPcZbb1gVk=
+			G1x8khZIksg0xvzFBjvVI1q9W5sHvDocItXlYdO4n6Q=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/arm64.swiftdoc</key>
@@ -446,11 +446,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r5Q06e2TnAH8pZWVCduJyDW5vT8=
+			0bO/Hwoxf4+9x0vXK68THiVKyvQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VUSjbDDxcszKMRzHqFL2UA1/oE3Iwsw5OlPcZbb1gVk=
+			G1x8khZIksg0xvzFBjvVI1q9W5sHvDocItXlYdO4n6Q=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -479,11 +479,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/78+DI9TBU7bHVIizEEss2jFh3s=
+			oN6RtGB/vR20cbNIHqDPxkc9hbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			F4N1RjrYu6ZaCGXwY9ChecV/VCAxrkEhlkGsY2NHyhY=
+			JIcyAV4UHGFz9/MNDVACmeRgmwHJzuGVHDCT3ansgCc=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/i386.swiftdoc</key>
@@ -512,11 +512,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/78+DI9TBU7bHVIizEEss2jFh3s=
+			oN6RtGB/vR20cbNIHqDPxkc9hbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			F4N1RjrYu6ZaCGXwY9ChecV/VCAxrkEhlkGsY2NHyhY=
+			JIcyAV4UHGFz9/MNDVACmeRgmwHJzuGVHDCT3ansgCc=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -545,11 +545,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sYN6zGLbkFLkK7NEcQm9Sphpi+k=
+			EJFFXwcCGgEiXsR/G2/klCRRN7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			EHoSrVK5y2DDSuxoeaXH3Qkws876YSSF3CE6jSJHvDY=
+			XgBc3FujvsFkkQJMlIMFVkqVnNmsfAPZ+WkadxNCs/w=
 			</data>
 		</dict>
 		<key>Modules/KochavaCore.swiftmodule/x86_64.swiftdoc</key>
@@ -578,11 +578,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sYN6zGLbkFLkK7NEcQm9Sphpi+k=
+			EJFFXwcCGgEiXsR/G2/klCRRN7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			EHoSrVK5y2DDSuxoeaXH3Qkws876YSSF3CE6jSJHvDY=
+			XgBc3FujvsFkkQJMlIMFVkqVnNmsfAPZ+WkadxNCs/w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

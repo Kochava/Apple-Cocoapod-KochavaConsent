@@ -6,19 +6,19 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		Te5K2MboUeLt3vVjBl5TWUiqvwQ=
+		K/S0dReaB1pxTnhfa7X0467BYfM=
 		</data>
 		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
 		<data>
-		9UG42ecd/6kL9Ohsb5TRBIOJ+eU=
+		2SyQ6l80lIyQpJCiVMyR1kA3ai8=
 		</data>
 		<key>Resources/KVAImageTableViewCell.nib</key>
 		<data>
-		RQSYdJvnXp8Sr6O73QcNTuvtlPU=
+		hjXq+lmUpa+pk0jmElEKN+qicl0=
 		</data>
 		<key>Resources/KVATextTableViewCell.nib</key>
 		<data>
-		uLB31juaonvkXuhVlZCRRiUCRho=
+		X2XXJCjYZu9n+W05fb0J+RrEh/E=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -48,28 +48,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8um5AmUgSmkpAWrf6M4CuKdrgVJ+zLNMhPFONtDdK/I=
+			Le7UqBoKMfwMOuRyoLqkJp1iRKBAaF8dpaI/23tBJuY=
 			</data>
 		</dict>
 		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iVLn7GM1TcAtVapnAq853HgtFjsmXbF6lJvRT16tgyw=
+			VjiEhvUUSkn1WYSnwrm6/gwcQqYEeSR6ebOdU7+RG2s=
 			</data>
 		</dict>
 		<key>Resources/KVAImageTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmOTR8/RbdcjAw/o/qnthhwESwbF8bDwft/h5CJrmw8=
+			wbnz8Y9UpSee8Hh58ZP6mBOzDmewcM5iQQAGomAAP9w=
 			</data>
 		</dict>
 		<key>Resources/KVATextTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y4PqbjJpEaqFJhqtoumBMPdEsJRKktqMTlGfQ553Bfk=
+			g5ILPLZsttS01wWkJ1QMfQpBBU76jjXKCOEFjIPY4h0=
 			</data>
 		</dict>
 	</dict>
