@@ -1,9 +1,9 @@
 PODS:
-  - Apple-Cocoapod-KochavaConsent (6.0.0):
-    - Apple-Cocoapod-KochavaUI (~> 6.0.0)
-  - Apple-Cocoapod-KochavaCore (6.0.0)
-  - Apple-Cocoapod-KochavaUI (6.0.0):
-    - Apple-Cocoapod-KochavaCore (~> 6.0.0)
+  - Apple-Cocoapod-KochavaConsent (6.1.0):
+    - Apple-Cocoapod-KochavaUI (~> 6.1.0)
+  - Apple-Cocoapod-KochavaCore (6.1.0)
+  - Apple-Cocoapod-KochavaUI (6.1.0):
+    - Apple-Cocoapod-KochavaCore (~> 6.1.0)
 
 DEPENDENCIES:
   - Apple-Cocoapod-KochavaConsent (from `../`)
@@ -18,9 +18,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Apple-Cocoapod-KochavaConsent: 5651daff770b9eca38cd6579f162271124978501
-  Apple-Cocoapod-KochavaCore: 9f9ca5ea61a2268be35187842f413e0054cbc69b
-  Apple-Cocoapod-KochavaUI: a618ab5ddd6aaa8f342bc2c6b19097bdd3af7c87
+  Apple-Cocoapod-KochavaConsent: 89462732514b5de490cb681e9890a3e4d3f1d251
+  Apple-Cocoapod-KochavaCore: 8baf9085fcee63ee3a4731fd5e5d9c577ddb8eef
+  Apple-Cocoapod-KochavaUI: c32bf926ee49fe8a8441b235f8460608108fac71
 
 PODFILE CHECKSUM: a243b939af2e756b6a1749562d151a4ca853d05b
 

@@ -1,0 +1,216 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-module-flags: -target arm64-apple-ios13.1-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name KochavaUI
+import Foundation
+import KochavaCore
+@_exported import KochavaUI
+import Swift
+import UIKit
+import _Concurrency
+public protocol KVAConfigureWithModelObjectTableViewProtocol {
+  func configure(modelObject: Swift.AnyObject?, tableView: UIKit.UITableView?)
+}
+extension Foundation.NSAttributedString {
+  @objc @_hasMissingDesignatedInitializers final public class KVAStyle : ObjectiveC.NSObject {
+    public static let normal: Foundation.NSAttributedString.KVAStyle
+    public static let normalMuted: Foundation.NSAttributedString.KVAStyle
+    public static let normalModeratelyMuted: Foundation.NSAttributedString.KVAStyle
+    public static let normalVeryMuted: Foundation.NSAttributedString.KVAStyle
+    public static let goldLight: Foundation.NSAttributedString.KVAStyle
+    public static let goldMedium: Foundation.NSAttributedString.KVAStyle
+    public static let goldMediumMuted: Foundation.NSAttributedString.KVAStyle
+    public static let warning: Foundation.NSAttributedString.KVAStyle
+    final public var color: UIKit.UIColor? {
+      get
+    }
+    final public let darkModeColor: UIKit.UIColor?
+    final public let lightModeColor: UIKit.UIColor?
+    final public let markupTokenString: Swift.String
+    @objc deinit
+  }
+}
+@objc(KVAImage) final public class KVAImage : ObjectiveC.NSObject, KochavaUI.KVATableViewCellProviderProtocol {
+  public init(urlString: Swift.String?, accessabilityTextString: Swift.String?, displayWidthMaximumPercentageCGFloat: CoreGraphics.CGFloat?, displayHeightMaximumPercentageCGFloat: CoreGraphics.CGFloat?)
+  @objc(imageWithCompletionHandler:) final public func image(withCompletionHandler closure_didComplete: ((_ image: UIKit.UIImage?) -> Swift.Void)?)
+  @objc public static func tableViewNibsDictionary() -> [Swift.String : UIKit.UINib]?
+  @objc final public func tableViewReusableCellIdentifier() -> Swift.String?
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  final public var displayWidthMaximumPercentageCGFloat: CoreGraphics.CGFloat? {
+    get
+  }
+  final public var displayHeightMaximumPercentageCGFloat: CoreGraphics.CGFloat? {
+    get
+  }
+  @objc final public var urlString: Swift.String? {
+    get
+  }
+  @objc final public var accessabilityTextString: Swift.String? {
+    get
+  }
+  @objc final public var cachedImage: UIKit.UIImage? {
+    @objc get
+  }
+  @objc final public var cachedImage_sf_memory: UIKit.UIImage? {
+    get
+  }
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVAImageTableViewCell) @_Concurrency.MainActor(unsafe) public class KVAImageTableViewCell : UIKit.UITableViewCell, KochavaUI.KVAConfigureWithModelObjectTableViewProtocol {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @objc override dynamic public func awakeFromNib()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func prepareForReuse()
+  @_Concurrency.MainActor(unsafe) public func configure(modelObject: Swift.AnyObject?, tableView: UIKit.UITableView?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func setSelected(_ selected: Swift.Bool, animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @objc(KVAImageView) @_Concurrency.MainActor(unsafe) final public class KVAImageView : UIKit.UIImageView {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(image: UIKit.UIImage?, highlightedImage: UIKit.UIImage?)
+  @_Concurrency.MainActor(unsafe) @objc override final public var intrinsicContentSize: CoreGraphics.CGSize {
+    @_Concurrency.MainActor(unsafe) @objc get
+  }
+  @_Concurrency.MainActor(unsafe) final public func reset()
+  @_Concurrency.MainActor(unsafe) final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVATable) final public class KVATable : ObjectiveC.NSObject, Foundation.NSCopying, KochavaCore.KVAFromProtocol {
+  public init(nameString: Swift.String?, sectionArray: [KochavaUI.KVATableSection]?, darkModeSupportedBool: Swift.Bool?)
+  @objc final public func copy(with zone: ObjectiveC.NSZone? = nil) -> Any
+  public static func kva_from(_ object: Any?) -> Self?
+  final public func section(atSectionInt sectionInt: Swift.Int) -> KochavaUI.KVATableSection?
+  final public func sectionCount() -> Swift.Int
+  final public func appendSection(_ section: KochavaUI.KVATableSection?)
+  final public func appendElement(_ elementObject: Swift.AnyObject?)
+  final public func removeElement(atIndexPath: Foundation.IndexPath?)
+  final public func replaceElement(atIndexPath: Foundation.IndexPath?, withObject: Swift.AnyObject)
+  final public func lastIndexPath() -> Foundation.IndexPath?
+  final public func indexPath(forElementObject: Swift.AnyObject?) -> Foundation.IndexPath?
+  final public func removeAllSections()
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  final public var darkModeSupportedBool: Swift.Bool {
+    get
+  }
+  final public var nameString: Swift.String? {
+    get
+  }
+  final public var viewController: UIKit.UIViewController? {
+    get
+    set(viewController)
+  }
+  @objc deinit
+}
+@objc(KVATableSection) final public class KVATableSection : ObjectiveC.NSObject, Foundation.NSCopying, KochavaCore.KVAFromProtocol {
+  required public init(nameString: Swift.String? = nil, elementArray: [Swift.AnyObject]? = nil)
+  @objc final public func copy(with zone: ObjectiveC.NSZone? = nil) -> Any
+  public static func kva_from(_ object: Any?) -> Self?
+  final public func element(atRowInt rowInt: Swift.Int) -> Swift.AnyObject?
+  final public func elementCount() -> Swift.Int
+  final public func firstRowInt(forElementObject: Swift.AnyObject?) -> Swift.Int?
+  final public var mutator: KochavaCore.KVAMutator {
+    get
+  }
+  final public var nameString: Swift.String?
+  final public func elementArray_append(_ anyObject: Swift.AnyObject?)
+  final public func elementArray_removeObject(at index: Swift.Int)
+  final public func elementArray_replaceObject(atIndex: Swift.Int, withObject: Swift.AnyObject)
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(KVATableView) @_Concurrency.MainActor(unsafe) final public class KVATableView : UIKit.UITableView, UIKit.UITableViewDelegate, UIKit.UITableViewDataSource {
+  @_Concurrency.MainActor(unsafe) final public func configure(table: KochavaUI.KVATable?, elementClassArray: [Swift.AnyClass])
+  @_Concurrency.MainActor(unsafe) @objc final public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc final public func tableView(_ tableView: UIKit.UITableView, accessoryButtonTappedForRowWith indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc final public func tableView(_ tableView: UIKit.UITableView, titleForHeaderInSection section: Swift.Int) -> Swift.String?
+  @_Concurrency.MainActor(unsafe) @objc final public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc final public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) @objc final public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc final public func tableView(_ tableView: UIKit.UITableView, willDisplayHeaderView view: UIKit.UIView, forSection section: Swift.Int)
+  @_Concurrency.MainActor(unsafe) @objc final public func scrollViewDidEndDecelerating(_ scrollView: UIKit.UIScrollView)
+  @_Concurrency.MainActor(unsafe) @objc final public func scrollViewWillBeginDragging(_ scrollView: UIKit.UIScrollView)
+  @_Concurrency.MainActor(unsafe) @objc final public func scrollViewDidEndDragging(_ scrollView: UIKit.UIScrollView, willDecelerate decelerate: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect, style: UIKit.UITableView.Style)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc(KVAUserInterfaceStyle) final public class KVAUserInterfaceStyle : ObjectiveC.NSObject {
+  @objc public static let dark: KochavaUI.KVAUserInterfaceStyle
+  @objc public static let light: KochavaUI.KVAUserInterfaceStyle
+  public init(nameString: Swift.String, defaultBackgroundColor: UIKit.UIColor, defaultForegroundColor: UIKit.UIColor, mutedForegroundColor: UIKit.UIColor, moderatelyMutedForegroundColor: UIKit.UIColor, veryMutedForegroundColor: UIKit.UIColor)
+  @objc public static var current: KochavaUI.KVAUserInterfaceStyle
+  final public let defaultBackgroundColor: UIKit.UIColor
+  final public let defaultForegroundColor: UIKit.UIColor
+  final public let mutedForegroundColor: UIKit.UIColor
+  final public let moderatelyMutedForegroundColor: UIKit.UIColor
+  final public let veryMutedForegroundColor: UIKit.UIColor
+  @objc deinit
+}
+@objc public protocol KVATableViewCellProviderProtocol {
+  @objc(tableViewNibsDictionary) static func tableViewNibsDictionary() -> [Swift.String : UIKit.UINib]?
+  @objc(tableViewReusableCellIdentifier) func tableViewReusableCellIdentifier() -> Swift.String?
+}
+@objc(KVAText) final public class KVAText : ObjectiveC.NSObject, KochavaCore.KVAFromProtocol, KochavaUI.KVATableViewCellProviderProtocol {
+  required public init(string: Swift.String? = nil, style: KochavaUI.KVATextStyle? = nil, alignmentString: Swift.String? = nil)
+  public static func kva_from(_ object: Any?) -> Self?
+  @objc public static func tableViewNibsDictionary() -> [Swift.String : UIKit.UINib]?
+  @objc final public func tableViewReusableCellIdentifier() -> Swift.String?
+  final public func alignment() -> UIKit.NSTextAlignment
+  final public func attributedString() -> Foundation.NSAttributedString?
+  final public func textColor() -> UIKit.UIColor
+  final public func font() -> UIKit.UIFont
+  final public func separatorLineAfterBool() -> Swift.Bool
+  final public func separatorLineHeightCGFloat() -> CoreGraphics.CGFloat
+  final public func spacingBeforePointCountCGFloat() -> CoreGraphics.CGFloat
+  final public func spacingAfterPointCountCGFloat() -> CoreGraphics.CGFloat
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @objc(KVATextStyle) final public class KVATextStyle : ObjectiveC.NSObject, KochavaCore.KVAAsForContextProtocol, KochavaCore.KVAFromProtocol {
+  public static let normal: KochavaUI.KVATextStyle
+  public static let headline: KochavaUI.KVATextStyle
+  public static let title: KochavaUI.KVATextStyle
+  public static let subtitle: KochavaUI.KVATextStyle
+  public static let heading1: KochavaUI.KVATextStyle
+  public static let heading2: KochavaUI.KVATextStyle
+  public static let heading2WhenSubtitleFollows: KochavaUI.KVATextStyle
+  public static let heading2Subtitle: KochavaUI.KVATextStyle
+  public static let heading3: KochavaUI.KVATextStyle
+  public static let heading4: KochavaUI.KVATextStyle
+  public static func kva_from(_ object: Any?) -> Self?
+  final public func kva_as(forContext context: KochavaCore.KVAContext?) -> Swift.AnyObject?
+  final public func spacingAfterPointCountCGFloat(fontSizeCGFloat: CoreGraphics.CGFloat?, lineSpacingCGFloat: CoreGraphics.CGFloat) -> CoreGraphics.CGFloat
+  final public func spacingBeforePointCountCGFloat(fontSizeCGFloat: CoreGraphics.CGFloat?, lineSpacingCGFloat: CoreGraphics.CGFloat?) -> CoreGraphics.CGFloat
+  final public func textColor(userInterfaceStyle: KochavaUI.KVAUserInterfaceStyle = .current) -> UIKit.UIColor
+  final public let nameString: Swift.String
+  final public let fontSizeCGFloat: CoreGraphics.CGFloat
+  final public let separatorLineAfterBool: Swift.Bool
+  @objc deinit
+}
+extension CoreGraphics.CGFloat : KochavaCore.KVAAsForContextProtocol, KochavaCore.KVAFromProtocol {
+  public static func kva_from(_ object: Any?) -> CoreGraphics.CGFloat?
+  public func kva_as(forContext context: KochavaCore.KVAContext?) -> Swift.AnyObject?
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(KVATextTableViewCell) @_Concurrency.MainActor(unsafe) final public class KVATextTableViewCell : UIKit.UITableViewCell, KochavaUI.KVAConfigureWithModelObjectTableViewProtocol {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @objc override final public func awakeFromNib()
+  @_Concurrency.MainActor(unsafe) final public func configure(modelObject: Swift.AnyObject?, tableView: UIKit.UITableView?)
+  @_Concurrency.MainActor(unsafe) @objc override final public func setSelected(_ selected: Swift.Bool, animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override final public func updateConstraints()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(KVAUIProduct) final public class KVAUIProduct : ObjectiveC.NSObject, KochavaCore.KVASharedPropertyProvider {
+  @objc public static let shared: KochavaCore.KVAProduct
+  public static var sharedInstance: Swift.AnyObject {
+    get
+  }
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension Foundation.NSMutableAttributedString {
+  convenience public init?(kva_styleMarkupString styleMarkupString: Swift.String?, defaultStyle: Foundation.NSAttributedString.KVAStyle)
+}

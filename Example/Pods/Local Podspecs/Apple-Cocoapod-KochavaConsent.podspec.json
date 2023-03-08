@@ -1,6 +1,6 @@
 {
   "name": "Apple-Cocoapod-KochavaConsent",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "summary": "The KochavaConsent module of the Kochava SDK for Apple iOS, macOS, macCatalyst, tvOS, and watchOS.",
   "description": "The KochavaConsent module provides consent management.  This includes support for GDPR, CCPA, and other consumer privacy laws.  This includes support or compatibility for iOS, macOS, macCatalyst, tvOS, and watchOS.",
   "homepage": "http://www.kochava.com",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Kochava/Apple-Cocoapod-KochavaConsent.git",
-    "tag": "6.0.0"
+    "tag": "6.1.0"
   },
   "platforms": {
     "ios": "10.3",
@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "Apple-Cocoapod-KochavaUI": [
-      "~> 6.0.0"
+      "~> 6.1.0"
     ]
   },
   "vendored_frameworks": "Apple-Cocoapod-KochavaConsent/Frameworks/KochavaConsent.xcframework",

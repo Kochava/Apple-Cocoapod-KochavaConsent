@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		GmRvY1hUuehCCMumKPpi1mlfCv8=
+		ilnhf3ARrpm9kPxWieVgtZE9pLU=
 		</data>
 		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
 		<data>
@@ -18,37 +18,79 @@
 		</data>
 		<key>Resources/KVATextTableViewCell.nib</key>
 		<data>
-		uv0izOEc5MyTXJyqIhlTdnhj/Cg=
+		TijHH6rKuK3V3RmZSzqZgRY8pCc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/KVAUIProduct.h</key>
+		<key>Headers/KochavaUI-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9yhCPrEJdeSTDYB/INCdhmmfBF6lvTsqdpvuvUNYw28=
+			7+PKOh37hwYm/1Kyrso1zGc+ZLteQMCHfK+MP/Ml178=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GKBDDEfZXrP0myMs/nxUxG0zNiY9QnK61IPdzUCg87A=
+			FpbD9HmsSi8loAqZy6hSYeCGSjWEXm5+VgH4D6Ko3Qc=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qI3CoPq4rnAZ9nD/lQoHuTSlJcS1/aoZatIQU6gbH1M=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kenaFk/BGgisNsI+a7m9SuN9IywzzND1x/gzyoKIShI=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VLvNZfWCv8l52K7p0zBMoB7feqsydj6FR7Muc+C0r/w=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fZdMj18CNEiTGFFVZBAscF4/CSqHF0oHDynETcboWrA=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fU/2flHKPCLQqqnMDjORLqoZz3jEwto1h0zYIF6+xUU=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/auu5UgUv13q0zt8zUiFExDNo5KnwaIOCSIpwqwFRxo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YACvDH3t6qjF5f2LZL4alL6R7TEOj5Saha8YAUfh7mE=
+			3iWKN9ZA08INvCGzVNp4QCjyAsJ+N+J7oDNCyGdahx8=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7jK67n5vxCZ00Hw9YNSCwNGbgDIX05gchMToyM5aTf0=
+			qQi/iHZxeJsyzW1/i/O8AAvPq5UQ6aITwCTISEcH6qw=
 			</data>
 		</dict>
 		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
@@ -69,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			djuoGGTOYYtpw1ps9R9RgTHFiGrSPeWdWD7KmYuRFBg=
+			NDt4jzwr0kb5SDzb8+ddqqSxaN26QkKyAKIgAcGQl1E=
 			</data>
 		</dict>
 	</dict>

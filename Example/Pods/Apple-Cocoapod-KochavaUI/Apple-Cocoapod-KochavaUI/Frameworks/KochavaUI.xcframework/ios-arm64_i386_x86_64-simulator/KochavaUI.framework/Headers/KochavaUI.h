@@ -34,9 +34,6 @@
 #pragma mark KochavaCore
 @import KochavaCore;
 
-#pragma mark KochavaUI
-#import <KochavaUI/KVAUIProduct.h>
-
 
 
 #pragma mark - EXPORT

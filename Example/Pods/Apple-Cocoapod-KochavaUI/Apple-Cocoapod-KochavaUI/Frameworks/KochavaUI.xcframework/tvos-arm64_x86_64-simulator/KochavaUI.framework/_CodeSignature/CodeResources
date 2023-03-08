@@ -4,56 +4,161 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/KVAUIProduct.h</key>
+		<key>Headers/KochavaUI-Swift.h</key>
 		<data>
-		GLKfrklbZHjCyNH/m6TEJKzY8X0=
+		i+YYOpwQ9Ikoy5ylKhFx3qSAIuw=
 		</data>
 		<key>Headers/KochavaUI.h</key>
 		<data>
-		0oJHVArRW50n/BOkiirwMfHRVTA=
+		++1TEP6NOhqQPr+x5UsrTF8FqNQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9XLu1+1lqpD6tn5SpuPwKHSBabQ=
+		LNgua0vnXYZMoMFZmSqydrX9pu0=
+		</data>
+		<key>KVATextTableViewCell.tvOS.nib</key>
+		<data>
+		ude8Wu0Ksxt1iG34xHWCeMVEwD8=
+		</data>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
+		<data>
+		kV8YiZTwVjcitDvEf4WvdMaZeoc=
+		</data>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
+		<data>
+		RbWXoc7d1TYu+8CFNtuqEIFuNSU=
+		</data>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
+		<data>
+		R2HOcDbRSZTGaTZzztB1Rx5/Hrs=
+		</data>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<data>
+		gLyCXL1MRLPi3RjgjYQlc+nbf90=
+		</data>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
+		<data>
+		xKrNRQmhOyc7dBjU8ZyDebMsyyg=
+		</data>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<data>
+		USi/eY8Sfdx5LWyBygxpTLjzoKY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		qcyEsgMOFj+C0NRNfRxlBntv5/w=
+		xJaqgkpRCdE3ZXeA8N1f3fp4gNY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/KVAUIProduct.h</key>
+		<key>Headers/KochavaUI-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GLKfrklbZHjCyNH/m6TEJKzY8X0=
+			i+YYOpwQ9Ikoy5ylKhFx3qSAIuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			9yhCPrEJdeSTDYB/INCdhmmfBF6lvTsqdpvuvUNYw28=
+			i0NrfO+u12HHeMxcX1iZUqb97g1N3Nq8HyIKQix7Jbw=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0oJHVArRW50n/BOkiirwMfHRVTA=
+			++1TEP6NOhqQPr+x5UsrTF8FqNQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			GKBDDEfZXrP0myMs/nxUxG0zNiY9QnK61IPdzUCg87A=
+			FpbD9HmsSi8loAqZy6hSYeCGSjWEXm5+VgH4D6Ko3Qc=
+			</data>
+		</dict>
+		<key>KVATextTableViewCell.tvOS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ude8Wu0Ksxt1iG34xHWCeMVEwD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Mz0LkHD4Yyh5KP2FY3Ig4dc1KgNXBpXFxyWOO7V1x5I=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kV8YiZTwVjcitDvEf4WvdMaZeoc=
+			</data>
+			<key>hash2</key>
+			<data>
+			kyPthh7oPU0kZYjGgoPrpH9ptf0lVONb+Dl1DIdI5Mc=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RbWXoc7d1TYu+8CFNtuqEIFuNSU=
+			</data>
+			<key>hash2</key>
+			<data>
+			QR+JTGtf3jJ8XH0y+hx/UzrWvyBGllVRhAoKPldu2Yg=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R2HOcDbRSZTGaTZzztB1Rx5/Hrs=
+			</data>
+			<key>hash2</key>
+			<data>
+			BPSko2JVxU5ZShA5uedFL3aWORVo2isj/JgHN9sH3bA=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gLyCXL1MRLPi3RjgjYQlc+nbf90=
+			</data>
+			<key>hash2</key>
+			<data>
+			NF8HhQnv8Alon64HpQMtCdZusThwefZ+CQ/1JTegpcg=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKrNRQmhOyc7dBjU8ZyDebMsyyg=
+			</data>
+			<key>hash2</key>
+			<data>
+			2Pdra5YDUGwMNZk7Egws1xYt0QIt4rDPIrY+0+JSBSo=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			USi/eY8Sfdx5LWyBygxpTLjzoKY=
+			</data>
+			<key>hash2</key>
+			<data>
+			oPvKy8iLQPphS4OutvxPVzX4GLysw2co9tqcdhi3x/I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qcyEsgMOFj+C0NRNfRxlBntv5/w=
+			xJaqgkpRCdE3ZXeA8N1f3fp4gNY=
 			</data>
 			<key>hash2</key>
 			<data>
-			YACvDH3t6qjF5f2LZL4alL6R7TEOj5Saha8YAUfh7mE=
+			3iWKN9ZA08INvCGzVNp4QCjyAsJ+N+J7oDNCyGdahx8=
 			</data>
 		</dict>
 	</dict>

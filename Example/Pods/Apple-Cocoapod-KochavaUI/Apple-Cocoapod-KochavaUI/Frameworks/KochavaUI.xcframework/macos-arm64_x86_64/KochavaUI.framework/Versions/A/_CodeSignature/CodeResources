@@ -6,37 +6,79 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		CDGmxTVd8Ua67mABSDOLAwYwZi8=
+		UP3e1d1StM3chqEzwjkwGdw0hFQ=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/KVAUIProduct.h</key>
+		<key>Headers/KochavaUI-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9yhCPrEJdeSTDYB/INCdhmmfBF6lvTsqdpvuvUNYw28=
+			R9HhnjYV9hw3HQWqxNir4/rYE7D3dbUOq8OrQOmyRmU=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GKBDDEfZXrP0myMs/nxUxG0zNiY9QnK61IPdzUCg87A=
+			FpbD9HmsSi8loAqZy6hSYeCGSjWEXm5+VgH4D6Ko3Qc=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-macos.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sSCKg9ZBcScO02hW4TfqOrUdRupDAuh6vMTxc/0kd7U=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-macos.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ntLnfi0gcAAaaOJNCmqIz0N4Hajk1Raal0aNGVv6GLA=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-macos.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9QLxLNrX0a5i5jeZ+ErxaDnUzkdzWVUjFZQCrENOnpQ=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-macos.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AYR/ex5bZ7QHHlWauP5IYVfxbGcVX4BpestUfhCLdOQ=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-macos.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vtusD9odbexj+zdu3cQ2hQo49sBiIw7CQMttbmWqlVw=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-macos.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q0R5A4V8CJzol6ko8NrLFs6veeT3FCNG//bi3XPoc/Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YACvDH3t6qjF5f2LZL4alL6R7TEOj5Saha8YAUfh7mE=
+			3iWKN9ZA08INvCGzVNp4QCjyAsJ+N+J7oDNCyGdahx8=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qvw9DIQD3ANwkOBKfV3SHReKvkMaQu3w16o6f/hohJY=
+			ggnzcrj4sqz4t90uLoQjlTyr2tjWIQMP6CzkInNxwM8=
 			</data>
 		</dict>
 	</dict>
