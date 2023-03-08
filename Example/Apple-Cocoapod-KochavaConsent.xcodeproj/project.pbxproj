@@ -313,9 +313,9 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Apple-Cocoapod-KochavaConsent_Example/Pods-Apple-Cocoapod-KochavaConsent_Example-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/KochavaConsent/KochavaConsent.framework/KochavaConsent",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/KochavaCore/KochavaCore.framework/KochavaCore",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/KochavaUI/KochavaUI.framework/KochavaUI",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Apple-Cocoapod-KochavaConsent/KochavaConsent.framework/KochavaConsent",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Apple-Cocoapod-KochavaCore/KochavaCore.framework/KochavaCore",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Apple-Cocoapod-KochavaUI/KochavaUI.framework/KochavaUI",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (

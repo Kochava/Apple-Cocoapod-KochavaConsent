@@ -6,19 +6,19 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		yRB8kYGMz9WrGJVo9aCXzg4nCpk=
+		GmRvY1hUuehCCMumKPpi1mlfCv8=
 		</data>
 		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
 		<data>
-		a2EjeNSDMFzqhDTB9wBuHq656Z8=
+		eqTW5JOWYTxPibgn3/eeMax+cDg=
 		</data>
 		<key>Resources/KVAImageTableViewCell.nib</key>
 		<data>
-		b0KkklvzmrT9Awd96tIM1igbw/4=
+		lkZa2OSxnOfF4OtWZj1qwHHVm5M=
 		</data>
 		<key>Resources/KVATextTableViewCell.nib</key>
 		<data>
-		nqJFXiqJYK8Xymi2L5ni+EYnSng=
+		uv0izOEc5MyTXJyqIhlTdnhj/Cg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,14 +27,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FEaUPwL432h9bbLPRqqQ6kvtzPv+wdal8+KWbGSOY+s=
+			9yhCPrEJdeSTDYB/INCdhmmfBF6lvTsqdpvuvUNYw28=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WsLkBDbF8J87bytF1QS1dAkfubAxK2hPXAYMHL89UqA=
+			GKBDDEfZXrP0myMs/nxUxG0zNiY9QnK61IPdzUCg87A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -48,28 +48,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tpbMIP2rWwOCGfMf0eJDnu8WUWkHljAKO+GseDBx4I8=
+			7jK67n5vxCZ00Hw9YNSCwNGbgDIX05gchMToyM5aTf0=
 			</data>
 		</dict>
 		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Y5zwXTn27uzTl+VSAVSsoq7yzbCLvCi59CllUjxShI=
+			yJIWw5dyc+cBJTzytjEd+pmBSTHW8pk+tD8r4JD36C8=
 			</data>
 		</dict>
 		<key>Resources/KVAImageTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qRdHiS1v3lqCNLIRDp+pOHeTWJE/ytRz4iYpW4M3CRI=
+			yhoKr/qGpDzwv5P+1xr0CwWVodaiKJD+0mM0pMXIFqM=
 			</data>
 		</dict>
 		<key>Resources/KVATextTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9ezOs2iU32gpMEBiHT6V7+t9/v/byBEbSGn/RVon74E=
+			djuoGGTOYYtpw1ps9R9RgTHFiGrSPeWdWD7KmYuRFBg=
 			</data>
 		</dict>
 	</dict>

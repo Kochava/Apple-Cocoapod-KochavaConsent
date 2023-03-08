@@ -15,7 +15,7 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 
 ## Built on
 
-* Xcode 12.4
+* Xcode 13.3.1
 
 ## Requirements
 

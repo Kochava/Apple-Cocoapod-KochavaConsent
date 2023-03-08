@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		gPW3ngRYxMq4IA6zHitvigFB98w=
+		CDGmxTVd8Ua67mABSDOLAwYwZi8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,14 +15,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FEaUPwL432h9bbLPRqqQ6kvtzPv+wdal8+KWbGSOY+s=
+			9yhCPrEJdeSTDYB/INCdhmmfBF6lvTsqdpvuvUNYw28=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WsLkBDbF8J87bytF1QS1dAkfubAxK2hPXAYMHL89UqA=
+			GKBDDEfZXrP0myMs/nxUxG0zNiY9QnK61IPdzUCg87A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -36,7 +36,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sVefkTC8TIEP5VffZq6UZPOJu4wKvLy3E1ooHOSTofs=
+			Qvw9DIQD3ANwkOBKfV3SHReKvkMaQu3w16o6f/hohJY=
 			</data>
 		</dict>
 	</dict>
