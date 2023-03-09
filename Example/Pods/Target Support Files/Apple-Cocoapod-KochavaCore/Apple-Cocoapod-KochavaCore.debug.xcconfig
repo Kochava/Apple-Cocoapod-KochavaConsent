@@ -3,7 +3,7 @@ CONFIGURATION_BUILD_DIR = ${PODS_CONFIGURATION_BUILD_DIR}/Apple-Cocoapod-Kochava
 FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Apple-Cocoapod-KochavaCore/Apple-Cocoapod-KochavaCore/Frameworks" "${PODS_XCFRAMEWORKS_BUILD_DIR}/Apple-Cocoapod-KochavaCore"
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 LIBRARY_SEARCH_PATHS = $(inherited) "${DT_TOOLCHAIN_DIR}/usr/lib/swift/${PLATFORM_NAME}" /usr/lib/swift
-OTHER_LDFLAGS = $(inherited) -framework "CoreGraphics" -framework "CoreLocation" -framework "Foundation" -framework "UIKit"
+OTHER_LDFLAGS = $(inherited) -framework "CoreGraphics" -framework "Foundation" -framework "UIKit"
 OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS
 PODS_BUILD_DIR = ${BUILD_DIR}
 PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)

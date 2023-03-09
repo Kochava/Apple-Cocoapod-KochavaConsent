@@ -1,6 +1,6 @@
 use_frameworks!
 
-platform :ios, '10.3'
+platform :ios, '12.4'
 
 target 'Apple-Cocoapod-KochavaConsent_Example' do
   pod 'Apple-Cocoapod-KochavaConsent', :path => '../'

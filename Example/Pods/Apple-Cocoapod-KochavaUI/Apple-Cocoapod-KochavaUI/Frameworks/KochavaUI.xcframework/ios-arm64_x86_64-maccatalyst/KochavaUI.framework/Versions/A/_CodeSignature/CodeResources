@@ -6,19 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		doMQcOIw/bGmVDHAlrmAGrouA7c=
-		</data>
-		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
-		<data>
-		eqTW5JOWYTxPibgn3/eeMax+cDg=
-		</data>
-		<key>Resources/KVAImageTableViewCell.nib</key>
-		<data>
-		lkZa2OSxnOfF4OtWZj1qwHHVm5M=
-		</data>
-		<key>Resources/KVATextTableViewCell.nib</key>
-		<data>
-		TijHH6rKuK3V3RmZSzqZgRY8pCc=
+		XVJC6EViYdGn5YYmPbU/nWpqoUg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,91 +15,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7+PKOh37hwYm/1Kyrso1zGc+ZLteQMCHfK+MP/Ml178=
+			4/tOMYGaSwxgJlAB4Z6jHswiW1qbHA9s0yTxL1SgqBI=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FpbD9HmsSi8loAqZy6hSYeCGSjWEXm5+VgH4D6Ko3Qc=
+			DcENkZd9itSDSm7YYk/pnTXhBhK37vNpqs0UQ7TomnA=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3KIPLohemQKoe+RuAFBCClawGLephKEIRelTe91Ymk4=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LPy2Lrrl0DhJT4/61cH24LwTyo+dzMd0qc7vw9ClKNA=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qI3CoPq4rnAZ9nD/lQoHuTSlJcS1/aoZatIQU6gbH1M=
+			y5RqpN2QaQAeQHaxu8b6ly+ejNcUIUmY2NhZtJG6GsA=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kenaFk/BGgisNsI+a7m9SuN9IywzzND1x/gzyoKIShI=
+			LPy2Lrrl0DhJT4/61cH24LwTyo+dzMd0qc7vw9ClKNA=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VLvNZfWCv8l52K7p0zBMoB7feqsydj6FR7Muc+C0r/w=
+			X7a877sgHSVNqaQH/mvVx8s+HWg1iqIHWXZjVofz2vE=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3KIPLohemQKoe+RuAFBCClawGLephKEIRelTe91Ymk4=
+			</data>
+		</dict>
+		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3KLs874iHN1cPIbDEhoVjNKad3OKjV7ETUiSUr5xO3Y=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZdMj18CNEiTGFFVZBAscF4/CSqHF0oHDynETcboWrA=
+			C/NiWWO+rq8DsFYsKHhx9GNuQV3Qu3YVjcdiK5cU9Bk=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fU/2flHKPCLQqqnMDjORLqoZz3jEwto1h0zYIF6+xUU=
+			3KLs874iHN1cPIbDEhoVjNKad3OKjV7ETUiSUr5xO3Y=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/auu5UgUv13q0zt8zUiFExDNo5KnwaIOCSIpwqwFRxo=
+			EWED8gYBuLDORfM0r0bruQoebH4DJufXWNNsSWZqZn8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3iWKN9ZA08INvCGzVNp4QCjyAsJ+N+J7oDNCyGdahx8=
+			ch0cmo6As7sPEy4U6d2f0498CoN8krC2pSUEZ87PU5c=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DsLOhggGVynugXynvyc0m/b1AIaCgxItIEA+6pBW/cM=
-			</data>
-		</dict>
-		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yJIWw5dyc+cBJTzytjEd+pmBSTHW8pk+tD8r4JD36C8=
-			</data>
-		</dict>
-		<key>Resources/KVAImageTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yhoKr/qGpDzwv5P+1xr0CwWVodaiKJD+0mM0pMXIFqM=
-			</data>
-		</dict>
-		<key>Resources/KVATextTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NDt4jzwr0kb5SDzb8+ddqqSxaN26QkKyAKIgAcGQl1E=
+			xJDQUzogqfj0r6UpfuDurY13JmY7L7yWkM7WS55afm8=
 			</data>
 		</dict>
 	</dict>
