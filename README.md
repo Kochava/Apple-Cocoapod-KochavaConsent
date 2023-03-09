@@ -11,7 +11,7 @@
 
 The KochavaConsent module of the Kochava Apple SDK provides consent management. This includes support for CCPA.
 
-The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
+The Kochava SDK is a lightweight and easy to integrate SDK written in Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
 
 ## Built on
 
