@@ -9,9 +9,9 @@
 
 ## Overview
 
-The KochavaUI module of the Kochava Apple SDK provides user interface support.
+The KochavaUI cocoapod is an optional module within the Kochava SDK providing user interface support.
 
-The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
+The Kochava SDK is a lightweight and easy to integrate SDK written in Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.
 
 ## Built on
 
@@ -45,4 +45,4 @@ Kochava, support@kochava.com
 
 ## License
 
-Apple-Cocoapod-KochavaUI is available under the [Kochava Terms of Service](https://www.kochava.com/terms-of-service/). See the LICENSE file for more info.
+KochavaUI is available under the [Kochava Terms of Service](https://www.kochava.com/terms-of-service/). See the LICENSE file for more info.
