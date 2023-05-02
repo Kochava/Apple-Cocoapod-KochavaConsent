@@ -23,22 +23,22 @@ variant_for_slice()
   "KochavaUI.xcframework/ios-arm64_x86_64-maccatalyst")
     echo "maccatalyst"
     ;;
-  "KochavaUI.xcframework/tvos-arm64_x86_64-simulator")
-    echo "simulator"
-    ;;
-  "KochavaUI.xcframework/ios-arm64_x86_64-simulator")
-    echo "simulator"
-    ;;
   "KochavaUI.xcframework/watchos-arm64_i386_x86_64-simulator")
+    echo "simulator"
+    ;;
+  "KochavaUI.xcframework/tvos-arm64_x86_64-simulator")
     echo "simulator"
     ;;
   "KochavaUI.xcframework/watchos-arm64_arm64_32_armv7k")
     echo ""
     ;;
-  "KochavaUI.xcframework/macos-arm64_x86_64")
+  "KochavaUI.xcframework/tvos-arm64")
     echo ""
     ;;
-  "KochavaUI.xcframework/tvos-arm64")
+  "KochavaUI.xcframework/ios-arm64_x86_64-simulator")
+    echo "simulator"
+    ;;
+  "KochavaUI.xcframework/macos-arm64_x86_64")
     echo ""
     ;;
   esac
@@ -53,23 +53,23 @@ archs_for_slice()
   "KochavaUI.xcframework/ios-arm64_x86_64-maccatalyst")
     echo "arm64 x86_64"
     ;;
-  "KochavaUI.xcframework/tvos-arm64_x86_64-simulator")
-    echo "arm64 x86_64"
-    ;;
-  "KochavaUI.xcframework/ios-arm64_x86_64-simulator")
-    echo "arm64 x86_64"
-    ;;
   "KochavaUI.xcframework/watchos-arm64_i386_x86_64-simulator")
     echo "arm64 i386 x86_64"
+    ;;
+  "KochavaUI.xcframework/tvos-arm64_x86_64-simulator")
+    echo "arm64 x86_64"
     ;;
   "KochavaUI.xcframework/watchos-arm64_arm64_32_armv7k")
     echo "arm64 arm64_32 armv7k"
     ;;
-  "KochavaUI.xcframework/macos-arm64_x86_64")
-    echo "arm64 x86_64"
-    ;;
   "KochavaUI.xcframework/tvos-arm64")
     echo "arm64"
+    ;;
+  "KochavaUI.xcframework/ios-arm64_x86_64-simulator")
+    echo "arm64 x86_64"
+    ;;
+  "KochavaUI.xcframework/macos-arm64_x86_64")
+    echo "arm64 x86_64"
     ;;
   esac
 }

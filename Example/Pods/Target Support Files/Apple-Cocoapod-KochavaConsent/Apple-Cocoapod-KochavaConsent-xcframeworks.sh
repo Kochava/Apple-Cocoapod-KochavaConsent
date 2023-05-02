@@ -17,29 +17,29 @@ RSYNC_PROTECT_TMP_FILES=(--filter "P .*.??????")
 variant_for_slice()
 {
   case "$1" in
-  "KochavaConsent.xcframework/tvos-arm64")
-    echo ""
-    ;;
-  "KochavaConsent.xcframework/macos-arm64_x86_64")
-    echo ""
-    ;;
-  "KochavaConsent.xcframework/watchos-arm64_arm64_32_armv7k")
-    echo ""
-    ;;
   "KochavaConsent.xcframework/ios-arm64")
     echo ""
     ;;
   "KochavaConsent.xcframework/watchos-arm64_i386_x86_64-simulator")
     echo "simulator"
     ;;
-  "KochavaConsent.xcframework/ios-arm64_x86_64-simulator")
-    echo "simulator"
+  "KochavaConsent.xcframework/macos-arm64_x86_64")
+    echo ""
     ;;
-  "KochavaConsent.xcframework/tvos-arm64_x86_64-simulator")
+  "KochavaConsent.xcframework/ios-arm64_x86_64-simulator")
     echo "simulator"
     ;;
   "KochavaConsent.xcframework/ios-arm64_x86_64-maccatalyst")
     echo "maccatalyst"
+    ;;
+  "KochavaConsent.xcframework/tvos-arm64")
+    echo ""
+    ;;
+  "KochavaConsent.xcframework/tvos-arm64_x86_64-simulator")
+    echo "simulator"
+    ;;
+  "KochavaConsent.xcframework/watchos-arm64_arm64_32_armv7k")
+    echo ""
     ;;
   esac
 }
@@ -47,29 +47,29 @@ variant_for_slice()
 archs_for_slice()
 {
   case "$1" in
-  "KochavaConsent.xcframework/tvos-arm64")
-    echo "arm64"
-    ;;
-  "KochavaConsent.xcframework/macos-arm64_x86_64")
-    echo "arm64 x86_64"
-    ;;
-  "KochavaConsent.xcframework/watchos-arm64_arm64_32_armv7k")
-    echo "arm64 arm64_32 armv7k"
-    ;;
   "KochavaConsent.xcframework/ios-arm64")
     echo "arm64"
     ;;
   "KochavaConsent.xcframework/watchos-arm64_i386_x86_64-simulator")
     echo "arm64 i386 x86_64"
     ;;
-  "KochavaConsent.xcframework/ios-arm64_x86_64-simulator")
+  "KochavaConsent.xcframework/macos-arm64_x86_64")
     echo "arm64 x86_64"
     ;;
-  "KochavaConsent.xcframework/tvos-arm64_x86_64-simulator")
+  "KochavaConsent.xcframework/ios-arm64_x86_64-simulator")
     echo "arm64 x86_64"
     ;;
   "KochavaConsent.xcframework/ios-arm64_x86_64-maccatalyst")
     echo "arm64 x86_64"
+    ;;
+  "KochavaConsent.xcframework/tvos-arm64")
+    echo "arm64"
+    ;;
+  "KochavaConsent.xcframework/tvos-arm64_x86_64-simulator")
+    echo "arm64 x86_64"
+    ;;
+  "KochavaConsent.xcframework/watchos-arm64_arm64_32_armv7k")
+    echo "arm64 arm64_32 armv7k"
     ;;
   esac
 }

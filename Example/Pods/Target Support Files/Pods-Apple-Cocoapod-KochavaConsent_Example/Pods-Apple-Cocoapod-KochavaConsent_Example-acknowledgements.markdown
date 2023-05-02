@@ -3,21 +3,21 @@ This application makes use of the following third party libraries:
 
 ## Apple-Cocoapod-KochavaConsent
 
-Copyright (c) 2021 Kochava <support@kochava.com>
+Copyright (c) 2023 Kochava <support@kochava.com>
 
 By using this software you consent to Kochava's Terms of Service found here:  https://www.kochava.com/terms-of-service/
 
 
 ## Apple-Cocoapod-KochavaCore
 
-Copyright (c) 2021 Kochava <support@kochava.com>
+Copyright (c) 2023 Kochava <support@kochava.com>
 
 By using this software you consent to Kochava's Terms of Service found here:  https://www.kochava.com/terms-of-service/
 
 
 ## Apple-Cocoapod-KochavaUI
 
-Copyright (c) 2021 Kochava <support@kochava.com>
+Copyright (c) 2023 Kochava <support@kochava.com>
 
 By using this software you consent to Kochava's Terms of Service found here:  https://www.kochava.com/terms-of-service/
 
