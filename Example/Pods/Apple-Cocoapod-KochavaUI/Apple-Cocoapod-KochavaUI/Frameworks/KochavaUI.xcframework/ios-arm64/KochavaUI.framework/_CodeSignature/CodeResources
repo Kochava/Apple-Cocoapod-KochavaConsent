@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/KochavaUI.h</key>
 		<data>
-		yBMvEhCP5o0W2Wex9hQL3hCatZk=
+		4ksroW7ppV/2hmC918AAaw1e3UY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KmqNde9aAScl+woL3MNAq5pKIKg=
+		m9bgAJ5IE6QVT3wOpkx0JUZkOkY=
 		</data>
 		<key>KVABoolAdapterTableViewCell.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		rpDyBDUYmTB3zKfi53kVJCvVvSE=
+		07/94738hscjuoGJ/RlM29E41OQ=
 		</data>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vAXJ3g8CkHRotPxq2OS6ixslgQo=
+		Al3S2NIftkJJIz6UCXWVM5HCdzc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,7 +66,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DcENkZd9itSDSm7YYk/pnTXhBhK37vNpqs0UQ7TomnA=
+			TRdSPYLef/G2xEaBNsmVB6jc9/Zot0blfhy+3M6Nj5w=
 			</data>
 		</dict>
 		<key>KVABoolAdapterTableViewCell.nib</key>
@@ -94,7 +94,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TaZafEVA3AZyqnYee9qKJItXHaTbaBmvKUJu/dNZ4Rk=
+			WD5wQCi87tqq1iykXr+jKr3cL5kjrLS1yrsOTDbu6Uw=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xSZnvkQs26KHiTNIp1j1HdFHbaO3XYsXZvODkO3n/V0=
+			DCqUAi5yQmVwBKk+/GT7Qcwwe/nfL/usalnzvhiFOjc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

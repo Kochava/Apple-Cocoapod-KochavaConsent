@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		PGIXQUNU8xgok94JojHwgaQXmdg=
+		N27rMCzYvu7y/2nUi7otdBGTtvM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DcENkZd9itSDSm7YYk/pnTXhBhK37vNpqs0UQ7TomnA=
+			TRdSPYLef/G2xEaBNsmVB6jc9/Zot0blfhy+3M6Nj5w=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uBmIUO81t6RjpQUutXoJnNZyLEE5e9vgspMrLAWkM6Y=
+			ovhEhL4fZ7oRMaVv4IfkmQuT6H3uEXukUZI78TSDfDw=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dso+euN6/nvbeatm4L+hyknX4NG6F3kmLgs5IzZ272Y=
+			U/iE5sPP41aUT9QpcfIBSVv1JavOQMrTYz2UySxZkeE=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uBmIUO81t6RjpQUutXoJnNZyLEE5e9vgspMrLAWkM6Y=
+			ovhEhL4fZ7oRMaVv4IfkmQuT6H3uEXukUZI78TSDfDw=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7cxC/KW5m1i+nCvDiPYLZW4DwreZc+ZUgNVFKAOO9QU=
+			xSYFGQcSEnSPp+Ht/3feeDypT4BCfXbVtidI/DMNAAk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -106,7 +106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nl4BvCVE2c/inW8RaEJ8VavE+u+XSiA/jsFg8ZLgIt4=
+			LzMu3zpxV2zTpPB1KEvQpy06fMFLn9mh8g4JQ61bLGs=
 			</data>
 		</dict>
 	</dict>

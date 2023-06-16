@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/KochavaUI.h</key>
 		<data>
-		yBMvEhCP5o0W2Wex9hQL3hCatZk=
+		4ksroW7ppV/2hmC918AAaw1e3UY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S4Kbn0c3QK9H0/Cr/GmH4g6cePY=
+		iIncp2DILtOfcPd4C/M4p9sOJMQ=
 		</data>
 		<key>KVATextTableViewCell.tvOS.nib</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		L3i98LgOBYGJrmRs3EWCWwjEXK8=
+		Q+c/28s4eXItJEgQDwFi7UVAeKQ=
 		</data>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos.swiftmodule</key>
 		<data>
-		03ejMTLvsHyWf7UWqr/foLZHDl8=
+		En6rr22xog7u3340wCZS8Cg+bt8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DcENkZd9itSDSm7YYk/pnTXhBhK37vNpqs0UQ7TomnA=
+			TRdSPYLef/G2xEaBNsmVB6jc9/Zot0blfhy+3M6Nj5w=
 			</data>
 		</dict>
 		<key>KVATextTableViewCell.tvOS.nib</key>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5PEEa01E+ra7r61SoTmMtNF/3VZY5unYou6UY9M+kQM=
+			bYx7ta5HOXCTvYRYi4p5SwJAllgwDBwfT1oCguOOPRA=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1xn9wdIIidCtJZWzTwA1KsKtqEgBXznZf7o1e+k9kJ0=
+			TAnHb6NwoSUWwI9YvIb9MlSsDqYs2cwy3A4ie8jOVcE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
