@@ -6502,49 +6502,49 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/KVATableSection.swift",
       "kind": "StringLiteral",
-      "offset": 1370,
+      "offset": 1342,
       "length": 14,
       "value": "\"elementArray\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/KVATableSection.swift",
       "kind": "Array",
-      "offset": 1542,
+      "offset": 1514,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/KVATableSection.swift",
       "kind": "BooleanLiteral",
-      "offset": 1712,
+      "offset": 1684,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/KVATableSection.swift",
       "kind": "StringLiteral",
-      "offset": 1886,
+      "offset": 1858,
       "length": 7,
       "value": "\"$file\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/KVATableSection.swift",
       "kind": "StringLiteral",
-      "offset": 2016,
+      "offset": 1988,
       "length": 7,
       "value": "\"$file\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/KVATableSection.swift",
       "kind": "BooleanLiteral",
-      "offset": 2213,
+      "offset": 2185,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/KVATableSection.swift",
       "kind": "StringLiteral",
-      "offset": 2800,
+      "offset": 2772,
       "length": 12,
       "value": "\"nameString\""
     },
@@ -6929,14 +6929,14 @@
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/NSMutableAttributedString+KochavaUI.swift",
       "kind": "StringLiteral",
-      "offset": 6165,
+      "offset": 6047,
       "length": 4,
       "value": "\"<$\""
     },
     {
       "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-KochavaSDK-Source\/KochavaUI\/KochavaUI\/ClassFiles\/NSMutableAttributedString+KochavaUI.swift",
       "kind": "StringLiteral",
-      "offset": 6216,
+      "offset": 6098,
       "length": 4,
       "value": "\"$>\""
     }

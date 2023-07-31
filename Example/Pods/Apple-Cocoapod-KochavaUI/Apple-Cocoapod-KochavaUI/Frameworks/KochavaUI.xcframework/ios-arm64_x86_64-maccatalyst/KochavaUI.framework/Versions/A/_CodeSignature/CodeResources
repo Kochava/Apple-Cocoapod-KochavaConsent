@@ -6,7 +6,19 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		5rWnth97TVjW+OxzOAH6b1Sh0XQ=
+		vdrBiMl0HF/lcvIHG3Nit4pXBTY=
+		</data>
+		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
+		<data>
+		WHm9IdhF31OdSmgmb/EfXEXqZkk=
+		</data>
+		<key>Resources/KVAImageTableViewCell.nib</key>
+		<data>
+		sGO6aQ9lBeyuP6NgfSEgbEXdMsE=
+		</data>
+		<key>Resources/KVATextTableViewCell.nib</key>
+		<data>
+		JfvTr/dTAP9K7ajuIk9CAOn3e8A=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -29,7 +41,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aL42YS0s4zDv3K+5oeSrF86du7wdkhSiGk+PVNVFFOg=
+			CpAab0xkfFbVBAFRdzF5QR72sZI8EOOlHdPPzZeFyYE=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -64,7 +76,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aL42YS0s4zDv3K+5oeSrF86du7wdkhSiGk+PVNVFFOg=
+			CpAab0xkfFbVBAFRdzF5QR72sZI8EOOlHdPPzZeFyYE=
 			</data>
 		</dict>
 		<key>Modules/KochavaUI.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -106,7 +118,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BtgJvRHjOTg15LzjR6Xf7gmc9qWAl4VgQ3Y6MwkAtvs=
+			6F7qvqUmziins1uh3V1fAU+RM1G4OuDbVhk2CA0trfo=
+			</data>
+		</dict>
+		<key>Resources/KVABoolAdapterTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cY9ZqHFchVsHBm3snTyUO5tUiN3OoGSyy39aJ/i1ywc=
+			</data>
+		</dict>
+		<key>Resources/KVAImageTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TlPlY9JoYUCoNL0SS0dUiKY+LbWXieGNrDMbe2LOI8E=
+			</data>
+		</dict>
+		<key>Resources/KVATextTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y4oyN4KO4STpWqVVvWlclg9HQrqwlRB2LF/snV0kBfY=
 			</data>
 		</dict>
 	</dict>
