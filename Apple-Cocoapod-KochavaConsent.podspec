@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'Apple-Cocoapod-KochavaConsent'
-    s.version          = '7.3.0'
+    s.version          = '7.4.0'
     s.summary          = 'The KochavaConsent module of the Kochava SDK for Apple iOS, macOS, macCatalyst, tvOS, and watchOS.'
 
     s.description  = <<-DESC
@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
     s.osx.frameworks   = 'Foundation', 'AppKit'
     s.tvos.frameworks   = 'Foundation', 'UIKit'
     s.watchos.frameworks   = 'Foundation', 'UIKit'
-    s.dependency 'Apple-Cocoapod-KochavaUI', '~> 7.3.0'
+    s.dependency 'Apple-Cocoapod-KochavaUI', '~> 7.4.0'
 
     # s.platforms = { :ios => "12.4", :osx => "10.14", :tvos => "12.4", :watchos => "7.0" }
     s.vendored_frameworks = 'Apple-Cocoapod-KochavaConsent/Frameworks/KochavaConsent.xcframework'
